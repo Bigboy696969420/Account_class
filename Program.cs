@@ -1,7 +1,7 @@
 ﻿using System.IO.Compression;
 using System.Security.Cryptography.X509Certificates;
 using AccountClass;
-
+// simulated change from teammate on github
 public class Program
 {
     static void Main(string[] args)

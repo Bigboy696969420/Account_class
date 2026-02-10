@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mc1101448\\Desktop\\Capstone_code\\Account_class\\Account_class.csproj": {}
+    "C:\\Users\\mc1101448\\Desktop\\Capstone_code\\Clone account Class\\Account_class\\Account_class.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mc1101448\\Desktop\\Capstone_code\\Account_class\\Account_class.csproj": {
+    "C:\\Users\\mc1101448\\Desktop\\Capstone_code\\Clone account Class\\Account_class\\Account_class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mc1101448\\Desktop\\Capstone_code\\Account_class\\Account_class.csproj",
+        "projectUniqueName": "C:\\Users\\mc1101448\\Desktop\\Capstone_code\\Clone account Class\\Account_class\\Account_class.csproj",
         "projectName": "Account_class",
-        "projectPath": "C:\\Users\\mc1101448\\Desktop\\Capstone_code\\Account_class\\Account_class.csproj",
+        "projectPath": "C:\\Users\\mc1101448\\Desktop\\Capstone_code\\Clone account Class\\Account_class\\Account_class.csproj",
         "packagesPath": "C:\\Users\\mc1101448\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mc1101448\\Desktop\\Capstone_code\\Account_class\\obj\\",
+        "outputPath": "C:\\Users\\mc1101448\\Desktop\\Capstone_code\\Clone account Class\\Account_class\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
