@@ -5,7 +5,7 @@ using AccountClass;
 public class Program
 {
     static void Main(string[] args)
-    {/*
+    {
         Console.WriteLine("Testing Account1");
         Account Account1 = new Account("Bob", 100);
 
@@ -57,7 +57,7 @@ public class Program
 
         Account1.Balance = 10000;
         Account1.Show();
-*/
+
         int? x1 = 20;
         int? x2 = null;
 

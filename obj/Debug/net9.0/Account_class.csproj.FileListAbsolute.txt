@@ -12,3 +12,4 @@ C:\Users\mc1101448\Desktop\Capstone_code\Account_class\obj\Debug\net9.0\refint\A
 C:\Users\mc1101448\Desktop\Capstone_code\Account_class\obj\Debug\net9.0\Account_class.pdb
 C:\Users\mc1101448\Desktop\Capstone_code\Account_class\obj\Debug\net9.0\Account_class.genruntimeconfig.cache
 C:\Users\mc1101448\Desktop\Capstone_code\Account_class\obj\Debug\net9.0\ref\Account_class.dll
+C:\Users\mc1101448\Desktop\Capstone_code\Account_class\obj\Debug\net9.0\Account_class.sourcelink.json
