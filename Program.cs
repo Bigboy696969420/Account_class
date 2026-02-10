@@ -2,6 +2,7 @@
 using System.Security.Cryptography.X509Certificates;
 using AccountClass;
 // simulated change from teammate on github
+// second test
 public class Program
 {
     static void Main(string[] args)
@@ -67,15 +68,15 @@ public class Program
         string? s = null;
         Account? a = null;
     }
-    
+
     public static void nullable(int? i)
     {
         if (i != null)
         {
             Console.WriteLine("The value is: " + i);
         }
-        else 
+        else
             Console.WriteLine("The value is null");
     }
-    
+
 }
