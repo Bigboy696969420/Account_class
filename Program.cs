@@ -67,7 +67,8 @@ public class Program
 
         string? s = null;
         Account? a = null;
-        Console.WriteLine("Test");
+        Console.WriteLine("Test1");
+        Console.WriteLine("Test2");
     }
 
     public static void nullable(int? i)
